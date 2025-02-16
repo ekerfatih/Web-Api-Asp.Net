@@ -1,0 +1,6 @@
+@Web_Api_Asp.Net_HostAddress = http://localhost:5134
+
+GET {{Web_Api_Asp.Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
